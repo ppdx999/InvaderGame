@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OpeningActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="#000">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:text="Welcome To Invader Game"
+        android:textColor="#FFF"
+        android:textSize="50dp"/>
+    <Button
+        android:id="@+id/LEVEL_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:text="LEVEL 1"
+        android:layout_margin="20dp"
+        />
+    <Button
+        android:id="@+id/LEVEL_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:layout_margin="20dp"
+        android:text="LEVEL 2"
+        />
+    <Button
+        android:id="@+id/LEVEL_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:layout_margin="20dp"
+        android:text="LEVEL 3"
+        />
+    <Button
+        android:id="@+id/LEVEL_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:layout_margin="20dp"
+        android:text="LEVEL 4"
+        />
+
+</LinearLayout>

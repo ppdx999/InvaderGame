@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InvaderGame</string>
+    <integer name="button_margin">20</integer>
+</resources>
