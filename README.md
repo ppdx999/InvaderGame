@@ -1,3 +1,3 @@
 # InvaderGame Android apps
 
-!(sample)[./img/InvaderGame.gif]
+<img src="https://github.com/ppdx999/InvaderGame/blob/master/img/InvaderGame.gif">
